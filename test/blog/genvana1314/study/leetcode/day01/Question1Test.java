@@ -1,5 +1,6 @@
 package blog.genvana1314.study.leetcode.day01;
 
+import blog.genvana1314.study.leetcode.day01.question1.Question1;
 import org.junit.Before;
 import org.junit.Test;
 

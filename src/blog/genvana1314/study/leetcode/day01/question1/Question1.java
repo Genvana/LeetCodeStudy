@@ -1,4 +1,4 @@
-package blog.genvana1314.study.leetcode.day01;
+package blog.genvana1314.study.leetcode.day01.question1;
 
 import java.util.HashMap;
 import java.util.Map;
